@@ -31,6 +31,8 @@ By storing shortened URLs in a MongoDB database and managing them through a Node
 <hr><ul>
 <li>JavaScript</li>
 </ul><ul>
+
+  project link:  https://bikash141.github.io/url-shortner/
 <li>React</li>
 </ul><ul>
 <li>NodeJS</li>
